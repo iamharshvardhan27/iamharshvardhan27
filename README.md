@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamharshvardhan27&show_icons=true&locale=en&layout=compact" alt="iamharshvardhan27" /></p>
 
-![GitHub Snake Animation](https://github.com/iamharshvardhan27/snk/blob/output/github-contribution-grid-snake.svg)
+ 
