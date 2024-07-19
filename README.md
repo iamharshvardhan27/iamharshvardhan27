@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamharshvardhan27&label=Profile%20views&color=0e75b6&style=flat" alt="iamharshvardhan27" /> </p>
 
-- 🔭 I’m currently working on **Smart Agriculture**
+- 🔭 I’m currently working on **Smart Agriculture And Plant Health Monitoring Using IoT with Leaf Disease Detection - ( A Funded Project By LA TROBE UNIVERSITY AUSTRALIA )**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamharshvardhan27](https://github.com/iamharshvardhan27)
 
